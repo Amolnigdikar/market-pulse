@@ -1,0 +1,293 @@
+{
+  "flowData": [
+    {
+      "day": "28 Jul",
+      "fii": -1240,
+      "dii": 1890
+    },
+    {
+      "day": "29 Jul",
+      "fii": -890,
+      "dii": 1420
+    },
+    {
+      "day": "30 Jul",
+      "fii": 340,
+      "dii": 610
+    },
+    {
+      "day": "31 Jul",
+      "fii": -2100,
+      "dii": 2450
+    },
+    {
+      "day": "1 Aug",
+      "fii": 1120,
+      "dii": -340
+    },
+    {
+      "day": "4 Aug",
+      "fii": -560,
+      "dii": 980
+    },
+    {
+      "day": "5 Aug",
+      "fii": -1780,
+      "dii": 2010
+    },
+    {
+      "day": "6 Aug",
+      "fii": 210,
+      "dii": 340
+    },
+    {
+      "day": "7 Aug",
+      "fii": -940,
+      "dii": 1560
+    }
+  ],
+  "fiiActivity": {
+    "buys": [
+      {
+        "stock": "ICICI Bank",
+        "sector": "Banking & Financial",
+        "val": 412
+      },
+      {
+        "stock": "Bharti Airtel",
+        "sector": "Telecom",
+        "val": 298
+      },
+      {
+        "stock": "L&T",
+        "sector": "Infrastructure",
+        "val": 176
+      }
+    ],
+    "sells": [
+      {
+        "stock": "Reliance Industries",
+        "sector": "Energy",
+        "val": -520
+      },
+      {
+        "stock": "TCS",
+        "sector": "IT",
+        "val": -344
+      },
+      {
+        "stock": "Adani Ports",
+        "sector": "Infrastructure",
+        "val": -210
+      }
+    ]
+  },
+  "diiActivity": {
+    "buys": [
+      {
+        "stock": "HDFC Bank",
+        "sector": "Banking & Financial",
+        "val": 680
+      },
+      {
+        "stock": "Infosys",
+        "sector": "IT",
+        "val": 415
+      },
+      {
+        "stock": "Sun Pharma",
+        "sector": "Pharma",
+        "val": 260
+      }
+    ],
+    "sells": [
+      {
+        "stock": "ITC",
+        "sector": "FMCG",
+        "val": -190
+      },
+      {
+        "stock": "Maruti Suzuki",
+        "sector": "Auto",
+        "val": -138
+      },
+      {
+        "stock": "NTPC",
+        "sector": "Power",
+        "val": -96
+      }
+    ]
+  },
+  "sectorData": [
+    {
+      "sector": "Banking & Financial",
+      "fii": 250,
+      "dii": 890
+    },
+    {
+      "sector": "IT",
+      "fii": -344,
+      "dii": 415
+    },
+    {
+      "sector": "Energy",
+      "fii": -520,
+      "dii": 140
+    },
+    {
+      "sector": "Infrastructure",
+      "fii": -34,
+      "dii": 210
+    },
+    {
+      "sector": "Telecom",
+      "fii": 298,
+      "dii": 60
+    },
+    {
+      "sector": "Pharma",
+      "fii": 80,
+      "dii": 260
+    },
+    {
+      "sector": "FMCG",
+      "fii": -60,
+      "dii": -190
+    },
+    {
+      "sector": "Auto",
+      "fii": 40,
+      "dii": -138
+    }
+  ],
+  "watchlist": [
+    {
+      "name": "HDFC Bank",
+      "sym": "HDFCBANK",
+      "price": "1,678.40",
+      "chg": "+1.24%",
+      "up": true,
+      "pe": "19.8x",
+      "mcap": "₹12.8L Cr",
+      "roe": "17.2%",
+      "divYield": "1.1%",
+      "high52": "1,725",
+      "low52": "1,430",
+      "debtEq": "0.86"
+    },
+    {
+      "name": "Reliance Industries",
+      "sym": "RELIANCE",
+      "price": "2,945.10",
+      "chg": "-0.38%",
+      "up": false,
+      "pe": "24.3x",
+      "mcap": "₹19.9L Cr",
+      "roe": "9.8%",
+      "divYield": "0.4%",
+      "high52": "3,180",
+      "low52": "2,610",
+      "debtEq": "0.42"
+    },
+    {
+      "name": "Infosys",
+      "sym": "INFY",
+      "price": "1,832.65",
+      "chg": "+0.86%",
+      "up": true,
+      "pe": "27.1x",
+      "mcap": "₹7.6L Cr",
+      "roe": "31.4%",
+      "divYield": "2.6%",
+      "high52": "1,955",
+      "low52": "1,420",
+      "debtEq": "0.09"
+    },
+    {
+      "name": "Apple Inc.",
+      "sym": "AAPL",
+      "price": "$228.14",
+      "chg": "+0.52%",
+      "up": true,
+      "pe": "34.2x",
+      "mcap": "$3.48T",
+      "roe": "151%",
+      "divYield": "0.4%",
+      "high52": "$237",
+      "low52": "$164",
+      "debtEq": "1.45"
+    },
+    {
+      "name": "NVIDIA Corp.",
+      "sym": "NVDA",
+      "price": "$132.87",
+      "chg": "-1.05%",
+      "up": false,
+      "pe": "48.6x",
+      "mcap": "$3.26T",
+      "roe": "91.5%",
+      "divYield": "0.03%",
+      "high52": "$153",
+      "low52": "$86",
+      "debtEq": "0.13"
+    }
+  ],
+  "funds": [
+    {
+      "name": "Parag Parikh Flexi Cap",
+      "cat": "Flexi Cap",
+      "ret1y": "19.6%",
+      "ret3y": "22.4%",
+      "ret5y": "24.1%",
+      "nav": "₹84.62",
+      "aum": "₹94,200 Cr",
+      "expRatio": "0.63%",
+      "sharpe": "1.42",
+      "exitLoad": "1% (<1Y)",
+      "risk": "Moderate"
+    },
+    {
+      "name": "Quant Small Cap",
+      "cat": "Small Cap",
+      "ret1y": "24.1%",
+      "ret3y": "31.8%",
+      "ret5y": "38.2%",
+      "nav": "₹238.90",
+      "aum": "₹28,600 Cr",
+      "expRatio": "0.58%",
+      "sharpe": "1.21",
+      "exitLoad": "1% (<1Y)",
+      "risk": "High"
+    },
+    {
+      "name": "Vanguard S&P 500 ETF",
+      "cat": "US Large Cap",
+      "ret1y": "16.8%",
+      "ret3y": "18.1%",
+      "ret5y": "15.9%",
+      "nav": "$556.30",
+      "aum": "$1.4T",
+      "expRatio": "0.03%",
+      "sharpe": "1.05",
+      "exitLoad": "None",
+      "risk": "Moderate"
+    },
+    {
+      "name": "ICICI Pru Balanced Adv.",
+      "cat": "Hybrid",
+      "ret1y": "11.4%",
+      "ret3y": "14.2%",
+      "ret5y": "13.6%",
+      "nav": "₹68.14",
+      "aum": "₹52,900 Cr",
+      "expRatio": "0.89%",
+      "sharpe": "0.98",
+      "exitLoad": "1% (<1Y)",
+      "risk": "Low"
+    }
+  ],
+  "meta": {
+    "asOf": null,
+    "source": "fallback sample data"
+  }
+}
