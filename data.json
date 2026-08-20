@@ -288,6 +288,6 @@
   ],
   "meta": {
     "asOf": null,
-    "source": "fallback sample data"
+    "source": "NSE (FII/DII) + AMFI (fund NAVs); stock watchlist & sector/stock-wise breakdown still sample"
   }
 }
