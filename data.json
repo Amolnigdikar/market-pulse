@@ -289,11 +289,11 @@
   "meta": {
     "asOf": null,
     "source": "NSE (FII/DII) + AMFI (fund NAVs); stock watchlist & sector/stock-wise breakdown still sample",
-    "lastRunAt": "2026-08-31T16:37:59.092Z",
+    "lastRunAt": "2026-08-31T18:05:23.654Z",
     "lastRunStatus": {
       "fiiDiiUpdated": false,
       "navUpdated": false,
-      "fiiDiiError": "No cookies returned from NSE homepage (status 403). Body snippet: <HTML><HEAD>\n<TITLE>Access Denied</TITLE>\n</HEAD><BODY>\n<H1>Access Denied</H1>\n \nYou don't have permission to access \"http&#58;&#47;&#47;www&#46;nseindia&#46;com&#47;\" on this server.<P>\nReference&#32;&#35;18&#46;da4c017&#46;1788194276&#46;77c12d13\n<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net",
+      "fiiDiiError": "No cookies returned from NSE homepage (status 403). Body snippet: <HTML><HEAD>\n<TITLE>Access Denied</TITLE>\n</HEAD><BODY>\n<H1>Access Denied</H1>\n \nYou don't have permission to access \"http&#58;&#47;&#47;www&#46;nseindia&#46;com&#47;\" on this server.<P>\nReference&#32;&#35;18&#46;d7427568&#46;1788199520&#46;22f525a0\n<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;ne",
       "navError": null
     }
   }
